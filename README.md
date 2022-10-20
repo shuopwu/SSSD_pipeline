@@ -1,4 +1,4 @@
-# SSSD_pipeline
+SSSD project for genomies in HPC pipeline
  
  draft
  
